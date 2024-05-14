@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
-- 🏡 作品： <a href="https://github.com/lhccong/we-go" target="_blank">API开放平台🔥</a> | <a href="https://github.com/lhccong/short-link-dog-backend" target="_blank">伙伴匹配系统✨</a>
+- 🏡 作品： <a href="https://github.com/PeterFangXiaoLin/simple-api-backend" target="_blank">API开放平台🔥</a> | <a href="https://github.com/PeterFangXiaoLin/user-play" target="_blank">伙伴匹配系统✨</a>
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/qq_64195455?spm=1000.2115.3001.5343)
 
 
@@ -20,11 +20,4 @@
 
 
 ### 开发的项目(developed projects)
-
-- [微狗实时聊天🔥](https://github.com/lhccong/we-go)
-- [短链狗短链生成✨](https://github.com/lhccong/short-link-dog-backend)
-- [COJ判题系统✅](https://github.com/lhccong/Coj-backend)
-- [万物代码平台🌱](https://github.com/lhccong/wanwu-code-backend)
-- [SpringBoot 项目快速开发模板⚡](https://github.com/lhccong/springboot-init)
-- [万物代码生成器🚀](https://github.com/lhccong/wanwu-generator)
 
